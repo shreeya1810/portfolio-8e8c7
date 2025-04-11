@@ -48,7 +48,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Learn more
+        label: Music
         altText: ''
         url: /
         showIcon: false
