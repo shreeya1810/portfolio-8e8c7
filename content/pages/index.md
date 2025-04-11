@@ -45,7 +45,7 @@ sections:
       - type: Button
         label: Music
         altText: ''
-        url: /
+        url: 'Music]'
         showIcon: false
         icon: arrowRight
         iconPosition: right
