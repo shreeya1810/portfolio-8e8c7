@@ -16,10 +16,7 @@ sections:
     title: >-
       I architect smart systems by day and write myth-drenched music by night —
       welcome to the in-between.
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    subtitle: I don't care about the rest. Just take me to the..
     styles:
       self:
         height: auto
