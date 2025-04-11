@@ -13,9 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I architect smart systems by day and write myth-drenched music by night —
-      welcome to the in-between.
+    title: I WRITE CODE BY DAY AND SONGS BY NIGHT..
     subtitle: I don't care about the rest. Just take me to the..
     styles:
       self:
